@@ -1,6 +1,6 @@
 {
-    "name": "v17development/flarum-third-party-login-only",
-    "description": "Only allow login and sign ups from oAuth extensions.",
+    "name": "gaoxing520/flarum-third-party-login-only",
+    "description": "Only allow login and sign ups from oAuth extensions. fork from v17development",
     "type": "flarum-extension",
     "license": "MIT",
     "authors": [
@@ -9,7 +9,7 @@
             "email": "info@v17.dev"
         }
     ],
-    "homepage": "https://v17.dev/projects/flarum-third-party-login-only",
+    "homepage": "https://github.com/gaoxing520/flarum-third-party-login-only",
     "support": {
         "forum": "https://discuss.flarum.org/d/28424",
         "docs": "https://community.v17.dev/knowledgebase/category/flarum-third-party-login-only"
