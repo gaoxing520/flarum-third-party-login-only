@@ -28,7 +28,7 @@ var module = (() => {
   // flarum-shim:flarum/admin/app
   var require_app = __commonJS({
     "flarum-shim:flarum/admin/app"(exports, module) {
-      module.exports = flarum.core.compat["admin/app"];
+      module.exports = flarum.core.compat["app"];
     }
   });
 

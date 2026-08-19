@@ -35,42 +35,42 @@ var module = (() => {
   // flarum-shim:flarum/forum/app
   var require_app = __commonJS({
     "flarum-shim:flarum/forum/app"(exports, module) {
-      module.exports = flarum.core.compat["forum/app"];
+      module.exports = flarum.core.compat["app"];
     }
   });
 
   // flarum-shim:flarum/forum/components/LogInModal
   var require_LogInModal = __commonJS({
     "flarum-shim:flarum/forum/components/LogInModal"(exports, module) {
-      module.exports = flarum.core.compat["forum/components/LogInModal"];
+      module.exports = flarum.core.compat["components/LogInModal"];
     }
   });
 
   // flarum-shim:flarum/forum/components/SignUpModal
   var require_SignUpModal = __commonJS({
     "flarum-shim:flarum/forum/components/SignUpModal"(exports, module) {
-      module.exports = flarum.core.compat["forum/components/SignUpModal"];
+      module.exports = flarum.core.compat["components/SignUpModal"];
     }
   });
 
   // flarum-shim:flarum/forum/components/HeaderSecondary
   var require_HeaderSecondary = __commonJS({
     "flarum-shim:flarum/forum/components/HeaderSecondary"(exports, module) {
-      module.exports = flarum.core.compat["forum/components/HeaderSecondary"];
+      module.exports = flarum.core.compat["components/HeaderSecondary"];
     }
   });
 
   // flarum-shim:flarum/forum/components/LogInButton
   var require_LogInButton = __commonJS({
     "flarum-shim:flarum/forum/components/LogInButton"(exports, module) {
-      module.exports = flarum.core.compat["forum/components/LogInButton"];
+      module.exports = flarum.core.compat["components/LogInButton"];
     }
   });
 
   // flarum-shim:flarum/forum/components/SettingsPage
   var require_SettingsPage = __commonJS({
     "flarum-shim:flarum/forum/components/SettingsPage"(exports, module) {
-      module.exports = flarum.core.compat["forum/components/SettingsPage"];
+      module.exports = flarum.core.compat["components/SettingsPage"];
     }
   });
 
